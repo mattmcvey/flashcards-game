@@ -6,4 +6,4 @@ I was tasked with creating a flashcards game that ran in the terminal. It will k
 
 # Setup
 
-In order to play this game clone the repo down to your local machine. Once you are in the directory run ```node index.js``` to begin the game. Use the arrows to select the option you would like to answer with and press enter. The game will tell you if it is correct or incorrect and display a new card. At the end it will display the percent of question you got correct. Use ```cmnd + c``` to exit the game and get back to your normal terminal.
+In order to play this game clone the repo down to your local machine. Once you are in the directory run ```node index.js``` to begin the game. Use the arrows to select the option you would like to answer with and press enter. The game will tell you if it is correct or incorrect and display a new question. At the end it will display the percent of question you got correct. Use ```cmnd + c``` to exit the game and get back to your normal terminal.
