@@ -1,6 +1,6 @@
 # Abstract
 
-I was tasked with creating a flashcards game that ran in the terminal. It would keep track of incorrect answers and tell you the percent you got correct.
+I was tasked with creating a flashcards game that ran in the terminal. It will keep track of incorrect answers and tell you the percent you got correct.
 
 ![Check it out!](https://media.giphy.com/media/YLZrxFH0XPhIfJD4Dz/giphy.gif)
 
